@@ -1,0 +1,10 @@
+#navlink-button {
+    padding: 14px;
+    color:white;
+    background-color: rgb(100,21,255);
+    border-radius: 25%;
+    border: 0px;
+    font-weight: bold;
+    width: 90px;
+    border-radius: 20%;
+}
