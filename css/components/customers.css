@@ -1,0 +1,20 @@
+.customers-wrapper p {
+    color:rgb(155,163,175);
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.customers-wrapper {
+    padding-top: 35px;
+}
+
+.customers-img-wrapper img {
+    max-width: 450px;
+    padding-top: 10px;
+    opacity: 0.6;
+}
+
+.customers-img-wrapper img:hover {
+    opacity: 1;
+    transition: 300ms ease;
+}
